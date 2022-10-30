@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneeshkishor012
 - 👀 I’m interested in Creating the UI using React-native
-- 🌱 I’m currently studying Election & communication alone with that pursuing internship at LinkEZ tech. 
+- 🌱 I’m currently studying Electronics & communication alone with that pursuing internship at LinkEZ tech. 
 - 💞️ I’m looking to collaborate on React-native open source project
 
 <!---
