@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @aneeshkishor012
-- 👀 I’m interested in Creating the UI using React-native
-- 🌱 I’m currently studying Electronics & communication alone with that pursuing internship at LinkEZ tech. 
-- 💞️ I’m looking to collaborate on React-native open source project
+Hi there, I'm Aneesh Kishor K 👋
 
-<!---
-aneeshkishor012/aneeshkishor012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I’m a dedicated Software Developer with a focus on Front-End Development. I have a passion for creating engaging user interfaces and bringing innovative ideas to life.
+🛠️ Technologies & Skills
+
+    Languages: JavaScript, Python, HTML, CSS
+    Tools & Frameworks: React, React Native (in progress)
+
+🚀 Projects
+1. Shopping Cart Application
+
+Developed a Shopping Cart application that allows users to purchase products from various local stores. This project demonstrates my ability to build user-friendly and functional e-commerce solutions.
+2. Music Application (In Progress)
+
+Currently working on a Music Application that supports both online and offline song playback. This project is a work in progress and aims to offer a seamless music experience.
+🎓 Education & Experience
+
+    Currently Studying: Electronics & Communication
+    Internship: Full-time internship at LinkEZ Tech
+
+🌟 Interests
+
+Outside of work, I enjoy:
+
+    Playing with React-Native: Experimenting with mobile app development.
+    Drawing: Exploring my creative side through art.
+
+💞️ Collaboration
+
+I’m looking to collaborate on React Native open source projects. If you have an exciting project or idea, let’s connect and build something amazing together!
+📫 Contact
+
+Feel free to reach out to me:
+
+    GitHub: aneeshkishor012
+    LinkedIn: Aneesh Kishor K
+    Email: aneeshkishor012@gmail.com
+
+🎯 Goals
+
+I’m eager to dive deeper into the world of React and React Native, exploring new possibilities and creating impactful applications.
