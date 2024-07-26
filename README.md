@@ -31,10 +31,9 @@ I’m looking to collaborate on React Native open source projects. If you have a
 📫 Contact
 
 Feel free to reach out to me:
-
-    GitHub: aneeshkishor012
-    LinkedIn: Aneesh Kishor K
-    Email: aneeshkishor012@gmail.com
+- **GitHub:** [aneeshkishor012](https://github.com/aneeshkishor012)
+- **LinkedIn:** [Aneesh Kishor K](https://www.linkedin.com/in/aneesh-kishor-k-88b040221/)
+- **Email:** [aneeshkishor012@gmail.com](mailto:aneeshkishor012@gmail.com)
 
 🎯 Goals
 
