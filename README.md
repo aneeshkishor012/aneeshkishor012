@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I’m a dedicated Software Developer with a focus 
 1. Shopping Cart Application
 
 Developed a Shopping Cart application that allows users to purchase products from various local stores. This project demonstrates my ability to build user-friendly and functional e-commerce solutions.
+
 2. Music Application (In Progress)
 
 Currently working on a Music Application that supports both online and offline song playback. This project is a work in progress and aims to offer a seamless music experience.
