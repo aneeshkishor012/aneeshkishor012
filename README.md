@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a dedicated Software Developer with a focus 
 🛠️ Technologies & Skills
 
     Languages: JavaScript, Python, HTML, CSS
-    Tools & Frameworks: React, React Native (in progress)
+    Tools & Frameworks: React, React Native
 
 🚀 Projects
 1. Shopping Cart Application
@@ -15,8 +15,8 @@ Developed a Shopping Cart application that allows users to purchase products fro
 Currently working on a Music Application that supports both online and offline song playback. This project is a work in progress and aims to offer a seamless music experience.
 🎓 Education & Experience
 
-    Currently Studying: Electronics & Communication
-    Internship: Full-time internship at LinkEZ Tech
+    Currently Studying: Bsc.Electronic-Inducstry Track
+    Internship: Full-time internship at Entrace India Pvt. Ltd (Formally LinkEZ Tech Pvt. Ltd)
 
 🌟 Interests
 
@@ -27,7 +27,7 @@ Outside of work, I enjoy:
 
 💞️ Collaboration
 
-I’m looking to collaborate on React Native open source projects. If you have an exciting project or idea, let’s connect and build something amazing together!
+I’m looking to collaborate on React Native and React open source projects. If you have an exciting project or idea, let’s connect and build something amazing together!
 📫 Contact
 
 Feel free to reach out to me:
