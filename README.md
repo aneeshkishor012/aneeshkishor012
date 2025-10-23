@@ -1,6 +1,7 @@
 Hi there, I'm Aneesh Kishor K 👋
 
 Welcome to my GitHub profile! I’m a dedicated Software Developer with a focus on Front-End Development. I have a passion for creating engaging user interfaces and bringing innovative ideas to life.
+
 🛠️ Technologies & Skills
 
     Languages: JavaScript, Python, HTML, CSS
@@ -14,6 +15,7 @@ Developed a Shopping Cart application that allows users to purchase products fro
 2. Music Application (In Progress)
 
 Currently working on a Music Application that supports both online and offline song playback. This project is a work in progress and aims to offer a seamless music experience.
+
 🎓 Education & Experience
 
     Currently Studying: Bsc.Electronic-Inducstry Track
@@ -29,6 +31,7 @@ Outside of work, I enjoy:
 💞️ Collaboration
 
 I’m looking to collaborate on React Native and React open source projects. If you have an exciting project or idea, let’s connect and build something amazing together!
+
 📫 Contact
 
 Feel free to reach out to me:
