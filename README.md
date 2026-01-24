@@ -38,7 +38,7 @@ Feel free to reach out to me:
 - **GitHub:** [aneeshkishor012](https://github.com/aneeshkishor012)
 - **LinkedIn:** [Aneesh Kishor K](https://www.linkedin.com/in/aneesh-kishor-k-88b040221/)
 - **Email:** [aneeshkishor012@gmail.com](mailto:aneeshkishor012@gmail.com)
-- **Portfolio:** [aneeshkishor-portfolio]https://aneeshkishor012.github.io/my-portfolio/
+- **Portfolio:** [aneeshkishor-portfolio](https://aneeshkishor012.github.io/my-portfolio/)
 
 🎯 Goals
 
