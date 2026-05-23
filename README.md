@@ -1,45 +1,106 @@
-Hi there, I'm Aneesh Kishor K 👋
+# 🚀 Featured Projects
 
-Welcome to my GitHub profile! I’m a dedicated Software Developer with a focus on Front-End Development. I have a passion for creating engaging user interfaces and bringing innovative ideas to life.
+## 🏭 Industry 4.0 Production Monitoring Platform
 
-🛠️ Technologies & Skills
+Built real-time industrial applications for manufacturing environments.
 
-    Languages: JavaScript, Python, HTML, CSS
-    Tools & Frameworks: React, React Native
+### Features
 
-🚀 Projects
-1. Shopping Cart Application
+* Real-time machine monitoring
+* BLE-based device communication
+* Production analytics dashboards
+* Work-in-progress tracking
+* Interactive reporting systems
 
-Developed a Shopping Cart application that allows users to purchase products from various local stores. This project demonstrates my ability to build user-friendly and functional e-commerce solutions.
+### Technologies
 
-2. Music Application (In Progress)
+React Native • ReactJS • Redux • BLE • REST APIs
 
-Currently working on a Music Application that supports both online and offline song playback. This project is a work in progress and aims to offer a seamless music experience.
+---
 
-🎓 Education & Experience
+## 📡 BLEDevKit (Developer Tool)
 
-    Currently Studying: Bsc.Electronic-Inducstry Track
-    Internship: Full-time internship at Entrace India Pvt. Ltd (Formally LinkEZ Tech Pvt. Ltd)
+A developer-focused React Native application for exploring and interacting with Bluetooth Low Energy (BLE) devices.
 
-🌟 Interests
+### Features
 
-Outside of work, I enjoy:
+* BLE device scanning with RSSI filtering
+* Device connection & reconnection management
+* GATT service and characteristic explorer
+* Read / Write / Notify BLE operations
+* Payload viewer supporting:
 
-    Playing with React-Native: Experimenting with mobile app development.
-    Drawing: Exploring my creative side through art.
+  * HEX
+  * ASCII
+  * UTF-8
+* Redux-based state management
+* MMKV persistence
+* Cross-platform Android & iOS support
 
-💞️ Collaboration
+### Architecture Highlights
 
-I’m looking to collaborate on React Native and React open source projects. If you have an exciting project or idea, let’s connect and build something amazing together!
+* Modular BLE abstraction layer using `react-native-ble-plx`
+* Reusable BLE service architecture
+* Redux-powered scalable state management
+* Dynamic GATT exploration system
+* MTU negotiation support for large data transfer
 
-📫 Contact
+### Technologies
 
-Feel free to reach out to me:
-- **GitHub:** [aneeshkishor012](https://github.com/aneeshkishor012)
-- **LinkedIn:** [Aneesh Kishor K](https://www.linkedin.com/in/aneesh-kishor-k-88b040221/)
-- **Email:** [aneeshkishor012@gmail.com](mailto:aneeshkishor012@gmail.com)
-- **Portfolio:** [aneeshkishor-portfolio](https://aneeshkishor012.github.io/my-portfolio/)
+React Native • TypeScript • Redux Toolkit • MMKV • react-native-ble-plx
 
-🎯 Goals
+---
 
-I’m eager to dive deeper into the world of React and React Native, exploring new possibilities and creating impactful applications.
+## 🛒 Shopping Cart Application
+
+Developed a Shopping Cart application that allows users to purchase products from various local stores.
+
+### Features
+
+* Product browsing
+* Add to cart functionality
+* Quantity management
+* Order summary interface
+* User-friendly shopping experience
+
+### Technologies
+
+ReactJS • JavaScript • HTML • CSS
+
+---
+
+## 🚚 Multi-App E-Commerce Delivery Platform
+
+Developed a delivery ecosystem similar to Swiggy/Blinkit.
+
+### Applications
+
+* Customer Application
+* Delivery Partner App
+* Shopkeeper Management App
+
+### Features
+
+* Real-time order tracking
+* Google Maps integration
+* Multi-role authentication
+
+### Technologies
+
+React Native • ReactJS • Google Maps API
+
+---
+
+## 🎵 Music Application (In Progress)
+
+Currently building a modern music application with:
+
+* Online & offline playback
+* Playlist management
+* Background audio support
+* Local storage integration
+* Smooth UI/UX experience
+
+### Technologies
+
+React Native • Audio APIs • Local Storage • Redux
