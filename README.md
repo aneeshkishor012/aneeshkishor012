@@ -231,7 +231,7 @@ A modern music application focused on online and offline music playback.
 
 Working on enterprise, mobile and Industry 4.0 software applications involving React Native, React.js, device integrations, real-time dashboards and production monitoring systems.
 
-### Front-End Developer — Entrace.ai
+### Front-End Developer — Linkez Technologies Private Limited
 **Sep 2022 – Sep 2025**
 
 Developed enterprise React applications, reusable UI components, Industry 4.0 dashboards, data visualization modules and API-driven application workflows.
