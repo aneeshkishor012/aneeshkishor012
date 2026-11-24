@@ -1,264 +1,159 @@
 # 👋 Hi, I'm Aneesh Kishor K
 
-### Full Stack Developer | React.js | React Native | Next.js | Node.js
+### Software Engineer | React.js · React Native · TypeScript | Industry 4.0 / MES · Industrial IoT
 
-I'm a Software Developer with **5+ years of professional development experience since 2021**, focused on building modern web and mobile applications with **React.js, React Native, Next.js, TypeScript and Node.js**.
+I'm a Software Engineer with **5 years of hands-on experience** (since 2021) building web and mobile applications with **React.js, React Native, TypeScript and Next.js**. I work mostly on **Industry 4.0 / MES software** for manufacturing plants: real-time dashboards, shop-floor device integration and practical production workflows.
 
-I enjoy building applications that combine clean UI, real-time data, device integrations and practical business workflows.
+I lead frontend delivery for a team of 5 developers, own two in-house frameworks (a React.js SSR framework and a React Native framework), and visit manufacturing plants to turn shop-floor problems into software.
 
-- 🚀 **20+ software projects** delivered
-- 🧩 **80+ reusable UI components/modules** developed
-- 📊 **30+ dashboard modules** built for enterprise and Industry 4.0 applications
-- 📡 **5+ BLE device types** integrated
-- 📱 **8+ Android applications/APKs** released
-- 🚢 **10+ production deployments**
-- 👨‍💻 Experience working with **4+ member development teams**
+**Currently:** Software Engineer at Entrace.ai · 📍 Karnataka, India
 
 ---
 
-# 🛠️ Tech Stack
+## 📌 At a Glance
 
-### Frontend
+- 🚀 **20+ software projects** across customer-facing and internal products
+- 🧩 **80+ reusable UI components and modules** built
+- 📊 **30+ Industry 4.0 dashboard modules** for production monitoring, analytics and reporting
+- 📡 **5+ BLE device types** integrated, plus TCP/IP-connected shop-floor devices
+- 📱 **8+ Android applications** released and supported across **10+ production deployments**
+- ⚡ Up to **3x faster load and response time** on Raspberry Pi and Android handheld devices
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js · React Native · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### State Management
+**State & UI:** Redux · Redux Toolkit · Context API · Ant Design · Material UI (MUI)
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+**Visualization:** Recharts · ApexCharts · AntD Charts · MUI Charts · real-time production dashboards
 
-**Redux • Redux Toolkit • Zustand**
-
-### Backend
+**Backend & APIs:** Node.js · Express.js · Python · Flask · REST APIs · WebSocket · JWT · C# API integration
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Node.js • Express.js • REST APIs • API Integration**
+**Industrial & Mobile:** BLE · GATT · TCP/IP · HTTP/REST edge-device integration · React Native WebView · native bridges · Android kiosk mode · MMKV · AsyncStorage
 
-### Mobile
-
-**React Native • React Navigation • Android • iOS**
-
-**BLE • Camera APIs • File System APIs • MMKV • Native Device Integration**
-
-### UI / Component Libraries
-
-**Material UI (MUI) • Ant Design • Ant Design Mobile • ShadCN • RNE UI**
-
-### Databases
+**Databases:** MongoDB · PostgreSQL · MySQL
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**MongoDB • MySQL • Supabase**
-
-### Visualization
-
-**ApexCharts • Recharts • Real-Time Dashboards • Production Analytics**
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Tools:** Git · GitHub · GitHub Actions · Vercel · DigitalOcean · Sentry · Postman
 
 ---
 
-# 🚀 Featured Projects
+## 🏭 Industry 4.0 / MES Experience
 
-## 🏭 Industry 4.0 Production Monitoring Platform
+I build the frontend for manufacturing execution systems, covering:
 
-A real-time industrial monitoring platform designed for manufacturing environments.
+- Production planning and scheduling, shop-floor monitoring and WIP tracking
+- Downtime, OEE and production-efficiency dashboards
+- Quality and inspection, traceability and batch tracking, inventory and material management
 
-### Highlights
-
-- 📊 **30+ dashboard modules** for production monitoring and analytics
-- 📡 BLE-based device communication
-- ⚙️ Real-time machine monitoring
-- 📈 Production analytics and visualization
-- 🔄 Work-in-progress tracking
-- 📋 Interactive reporting systems
-- 📱 Web and mobile application support
-
-### Technologies
-
-**React.js • React Native • Redux • BLE • REST APIs • ApexCharts • Recharts**
+**Device integration:** the frontend connects directly to BLE instruments, NutRunners, Air Gauge devices and TCP-connected LeakTest, BodyLeakTest and Auto Recaller units. For all other machines, I define the data formats that backend services return and render them in dashboards.
 
 ---
 
-## 📡 BLEDevKit — BLE Developer Tool
+## 🚀 Featured Projects
 
-A developer-focused React Native application for exploring, debugging and interacting with **Bluetooth Low Energy (BLE)** devices.
+### 📡 [BLEDevKit](https://github.com/aneeshkishor012/BLEDevKit): BLE Developer Tool
 
-### Features
+A React Native utility for exploring, debugging and interacting with Bluetooth Low Energy devices.
 
-- 🔍 BLE device scanning with RSSI filtering
-- 🔗 Device connection and reconnection management
-- 🧩 GATT service and characteristic explorer
-- 📖 Read operations
-- ✍️ Write operations
-- 🔔 Notify / notification monitoring
-- 📦 Payload viewer supporting:
-  - HEX
-  - ASCII
-  - UTF-8
-- 💾 MMKV persistence
-- 🔄 Redux Toolkit state management
-- 📱 Android and iOS support
+- Scan devices, connect with retry on transient disconnects, and explore GATT services and characteristics
+- Read, write and subscribe to notifications, with HEX, ASCII and UTF-8 payload views
+- UUID registry that resolves Bluetooth SIG service, characteristic and descriptor names into readable descriptions
+- Modular BLE abstraction layer on `react-native-ble-plx`, Redux Toolkit state and MMKV persistence
 
-### Architecture
-
-- Modular BLE abstraction layer using `react-native-ble-plx`
-- Reusable BLE service architecture
-- Redux Toolkit-based state management
-- Dynamic GATT exploration
-- MTU negotiation for large data transfer
-- Separation of BLE communication and UI workflows
-
-### Technologies
-
-**React Native • TypeScript • Redux Toolkit • MMKV • react-native-ble-plx**
+**Stack:** React Native · TypeScript · Redux Toolkit · MMKV · react-native-ble-plx
 
 ---
 
-## 🚚 Multi-App E-Commerce Delivery Platform
+### 🛒 [my-music-world](https://github.com/aneeshkishor012/my-music-world): Full-Stack Web App
 
-A multi-role delivery ecosystem built around customer ordering, shopkeeper management and delivery operations.
+A full-stack web app built with the Next.js App Router.
 
-### Applications
+- Credentials authentication, role-based admin panel (products, categories, orders, users)
+- REST route handlers over PostgreSQL, cart and checkout, favorites, queue-based music player
+- Responsive layout that also runs inside a React Native WebView
 
-- 👤 Customer Application
-- 🛵 Delivery Partner Application
-- 🏪 Shopkeeper Management Application
-
-### Features
-
-- 📦 Product and order workflows
-- 📍 Google Maps integration
-- 🚚 Real-time order tracking
-- 👥 Multi-role workflows
-- 🔐 Authentication
-- 📱 Mobile-first application experience
-
-### Technologies
-
-**React Native • React.js • Google Maps API • REST APIs**
+**Stack:** Next.js 16 · React 19 · TypeScript · NextAuth · PostgreSQL · Ant Design · Tailwind CSS · Zod
 
 ---
 
-## 🛒 Shopping Cart Application
+### 🏭 Industry 4.0 Production Monitoring Platform
 
-A responsive shopping application designed to support product discovery and cart management.
+Real-time monitoring platform for manufacturing environments (work project).
 
-### Features
+- 30+ dashboard modules for production monitoring, analytics and reporting
+- BLE and TCP/IP device communication, WebSocket-driven live views
+- WIP tracking, downtime, OEE and quality modules
+- Performance tuning for low-power devices: code splitting, lazy loading, list virtualization, caching and memoization
 
-- Product browsing
-- Add/remove products
-- Quantity management
-- Shopping cart
-- Order summary
-- Responsive UI
-
-### Technologies
-
-**React.js • JavaScript • HTML5 • CSS3**
+**Stack:** React.js · React Native · Redux · TypeScript · Recharts · ApexCharts · BLE · REST
 
 ---
 
-## 🧠 MindAid — Mental Wellness Assessment Platform
+### 📱 Android Manufacturing Kiosk
 
-A web-based assessment and analytics platform designed for structured mental wellness assessments.
+An Android kiosk application for WIP, tooling and maintenance teams, with restricted navigation, local storage and WebView integration. React web content talks to React Native bridges for Maps, Bluetooth, device configuration and Wi-Fi.
 
-### Features
-
-- Questionnaire-based assessments
-- Analytics dashboards
-- Administrative workflows
-- Assessment management
-- Backend API integration
-- MongoDB-based data storage
-
-### Technologies
-
-**React • Flask • REST APIs • MongoDB**
+**Stack:** React Native · WebView · JavaScript bridges
 
 ---
 
-## 📊 Next.js Dashboard
+### 🧠 MindAid: Mental Wellness Assessment Platform (BSc Project)
 
-A modern dashboard application built to explore scalable frontend architecture and data visualization using Next.js.
+A web platform that assesses mental-health status for students, adults and hospital patients.
 
-### Technologies
+- Module-based scientific questionnaires combined with real-time facial emotion detection using `face-api.js` in the browser
+- Emotion-percentage summaries charted in an admin results view, with PDF report export
+- Flask REST APIs with JWT authentication, admin approval workflow, certificate generation and MongoDB storage
+- Deployed on a DigitalOcean server
 
-**Next.js • TypeScript • React • Dashboard UI**
-
----
-
-## 🎵 Music Application — In Progress
-
-A modern music application focused on online and offline music playback.
-
-### Planned / Implemented Features
-
-- 🎵 Online music playback
-- 📥 Offline playback
-- 📂 Playlist management
-- ▶️ Background audio playback
-- 💾 Local storage
-- 🎧 Modern music-player UI
-- 🔎 Music discovery
-- 🎤 Artist / album / song exploration
-
-### Technologies
-
-**React Native • React / Next.js • JavaScript • TypeScript • Audio APIs • Local Storage • Redux**
+**Stack:** React.js · Ant Design · face-api.js · Flask · JWT · MongoDB
 
 ---
 
-# 💼 Professional Experience
+### 🚚 Multi-App E-Commerce Delivery Platform
 
-### Software Engineer — Entrace.ai
-**Oct 2025 – Present**
-
-Working on enterprise, mobile and Industry 4.0 software applications involving React Native, React.js, device integrations, real-time dashboards and production monitoring systems.
-
-### Front-End Developer — Linkez Technologies Private Limited
-**Sep 2022 – Sep 2025**
-
-Developed enterprise React applications, reusable UI components, Industry 4.0 dashboards, data visualization modules and API-driven application workflows.
-
-### Front-End Developer Intern — Merahkee Tech Solutions
-**Sep 2021 – Sep 2022**
-
-Developed React-based e-commerce and delivery applications covering customer, shopkeeper and delivery-partner workflows with Google Maps integration.
+A delivery ecosystem with customer, shopkeeper and delivery-partner applications, built with React.js, Google Maps integration and backend APIs (internship project).
 
 ---
 
-# 📈 What I Like Building
+## 💼 Experience
 
-- ⚛️ React / React Native applications
-- 🌐 Modern web applications
-- 📱 Android & cross-platform mobile applications
-- 🔌 BLE-connected applications
-- 📊 Real-time dashboards
-- 🏭 Industry 4.0 applications
-- 🎵 Music applications
-- 🛒 E-commerce platforms
-- 🔗 REST API-driven applications
-- 🎨 Clean and reusable UI systems
+**Software Engineer, Entrace.ai** · Oct 2025 – Present
+Frontend delivery for MES modules, ownership of the in-house React Native framework, code reviews and mentoring, plant visits and stakeholder communication.
+
+**Software Developer Intern (Full-time), Core Frontend Team, Entrace.ai (formerly Linkez Technologies)** · Sep 2022 – Sep 2025
+Built major modules for an in-house React.js SSR framework, contributed to the React Native framework, and delivered enterprise web and mobile features, dashboards and device integrations.
+
+**Front-End Developer Intern, Merahkee Tech Solutions** · Sep 2021 – Sep 2022
+Built React.js interfaces for a multi-application e-commerce delivery platform with Google Maps integration.
 
 ---
 
-# 📫 Connect With Me
+## 📈 What I Like Building
+
+⚛️ React and React Native applications · 📊 Real-time dashboards · 🏭 Industry 4.0 / MES software · 🔌 BLE-connected apps · 🔗 REST API-driven products · 🎨 Clean, reusable UI systems
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aneesh-kishor-k-88b040221/">
@@ -267,8 +162,11 @@ Developed React-based e-commerce and delivery applications covering customer, sh
   <a href="https://github.com/aneeshkishor012">
     <img src="https://img.shields.io/badge/GitHub-aneeshkishor012-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:aneeshkishor012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aneeshkishor012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ **Building practical software, learning continuously, and turning ideas into working products.**
+⭐ **Building practical software, learning continuously, and turning shop-floor problems into working products.**
